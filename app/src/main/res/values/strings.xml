@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Album manager</string>
+    <string name="songs">Songs</string>
+    <string name="historyAlert">It appears that you do not have any saved albums. You can discover artists and save their albums by using the search button</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
